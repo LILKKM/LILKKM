@@ -1,16 +1,20 @@
-## Hi there 👋
+# LILKKM
 
-<!--
-**LILKKM/LILKKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+직접 써보고 싶은 앱과 도구를 만듭니다.
+AI를 활용해 아이디어를 구현하고, 여러 개인 프로젝트를 실험하고 개선합니다.
 
-Here are some ideas to get you started:
+## 프로젝트
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+공개된 프로젝트와 관련 링크를 이곳에 정리합니다.
+
+| 프로젝트 | 소개 | 링크 |
+| --- | --- | --- |
+| 갤러리 정리 (Gallery Cleanup) | 사진 갤러리 정리를 위한 앱 | [앱 지원 페이지](https://lilkkm.github.io/) |
+
+## 관심 있는 것
+
+- 일상에서 직접 사용할 앱과 도구 만들기
+- AI를 활용한 개발과 작업 자동화
+- 만든 프로젝트의 코드를 이해하고 개선하기
+
+[앱 지원 페이지](https://lilkkm.github.io/) · [공개 저장소](https://github.com/LILKKM?tab=repositories)
